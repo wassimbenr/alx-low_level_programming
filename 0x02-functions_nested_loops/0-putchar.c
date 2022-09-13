@@ -1,10 +1,4 @@
-#include "holberton.h"
-
-/**
-* main - Print the word "Holberton"
-*
-* Return: Always 0 (Success)
-*/
+#include "main.h"
 
 int main(void)
 {

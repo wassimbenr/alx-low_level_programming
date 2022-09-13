@@ -1,11 +1,4 @@
-#include "holberton.h"
-
-/**
-* print_alphabet - Print the alphabet in lowercase.
-*
-* Return: void.
-*/
-
+#include "main.h"
 void print_alphabet(void)
 {
 	int i;
