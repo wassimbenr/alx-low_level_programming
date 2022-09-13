@@ -1,42 +1,35 @@
-General
+File 0-main.c is a program that prints main, followed by a new line.
 
-    Allowed editors: vi, vim, emacs
-    All your files will be compiled on Ubuntu 14.04 LTS
-    Your programs and functions will be compiled with gcc 4.8.4 using the flags -Wall -Werror -Wextra and -pedantic
-    All your files should end with a new line
-    A README.md file, at the root of the folder of the project is mandatory
-    Your code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
-    You are not allowed to use global variables
-    No more than 5 functions per file
-    You are not allowed to use the standard library. Any use of functions like printf, puts, etc is forbidden
-    You are allowed to use _putchar
-    You dont have to push _putchar.c, we will use our file. If you do it wont be taken into account
-    In the following examples, the main.c files are shown as examples. You can use them to test your functions, but you dont have to push them to your repo (if you do we wont take them into account). We will use our own main.c files at compilation. Our main.c files might be different from the one shown in the examples
-    The prototypes of all your functions and the prototype of the function _putchar should be included in your header file called holberton.h
-    Dont forget to push your header file
+File 1-alphabet.c is a function that prints the alphabet, in lowercase, followed by a new line.
 
-Description of Files
-0-holberton.c
-Prints ``Holberton`` followed by a new line, and returns 0.
-1-alphabet.c
-Prints the lowercase letters of the alphabet followed by a new line.
-2-print_alphabet_x10.c
-Prints the alphabet ten times, using ``_putchar`` only twice.
-3-islower.c
-Checks for a lowercase character. Recreation of ``islower``
-4-isalpha.c
-Checks for an alphabetic character. Recreation of ``isalpha``
-5-sign.c
-Prints the sign of a number
-6-abs.c
-Computes the absolute value of an integer
-7-print_last_digit.c
-Prints the last digit of a number
-8-24_hours.c
-Prints all times from 00:00 to 23:59
-9-times_table.c
-Prints the 9 times table, starting with zero
-10-add.c
-Adds 2 integers and returns the result
-11-print_to_98.c
-Prints all numbers from n to 98 
+File 2-print_alphabet_x10.c is a function that prints 10 times the alphabet, in lowercase, followed by a new line.
+
+File 3-islower.c is a function that checks for lowercase character.
+
+File 4-isalpha.c is a function that checks for alphabetic character.
+
+File 5-sign.c is a function that prints the sign of a number.
+
+File 6-abs.c is a function that computes the absolute value of an integer.
+
+File 7-print_last_digit.c is a function that prints the last digit of a number.
+
+File 8-24_hours.c is a function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
+
+File 10-add.c is a function that adds two integers and returns the result.
+
+File 11-print_to_98.c is a function that prints all natural numbers from n to 98, followed by a new line.
+
+File 100-times_table.c is a function that prints the n times table, starting with 0.
+
+File 101-natural.c is a program that computes and prints the sum of all the multiples of 3 or 5 below 1024 (excluded), followed by a new line.
+
+File 102-fibonacci.c is a program that prints the first 50 Fibonacci numbers, starting with 1 and 2, followed by a new line.
+
+File 103-fibonacci.c is a program that finds and prints the sum of the even-valued terms of the Fibonacci suite under 4000000, followed by a new line.
+
+File 104-fibonacci.c is a program that finds and prints the first 98 Fibonacci numbers, starting with 1 and 2, followed by a new line.
+
+File \_putchar.c contains the \_putchar() function definition.
+
+File main.h is the header file containing all the function prototypes used in this project.
